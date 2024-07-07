@@ -1,6 +1,6 @@
-Functional Requirement collection
+# Functional Requirement collection
 
-For LMS (Library Management System), the requirements have been defined below:
+## For LMS (Library Management System), the requirements have been defined below:
 
 R1: The system should be able to store the information about books and members of the library. Moreover, the complete log of the book borrowing process should also be stored.
 
